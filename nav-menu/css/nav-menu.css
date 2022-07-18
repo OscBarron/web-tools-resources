@@ -1,8 +1,5 @@
-/* Set nav to sticky */
-nav {
-  position: sticky;
-  top: 0;
-}
+/* Set nav to sticky or fixed */
+
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #333;
